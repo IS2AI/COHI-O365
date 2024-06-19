@@ -33,6 +33,7 @@ We used YOLOv7 to train and evaluate object detection models. All needed informa
 ## Pre-trained models
 We trained the YOLOv7 model with 36.9 M parameters on three datasets, namely Objects365, RMFV365, and a variant of RMFV365 codenamed RMFV365-v1 and evaluated the performance of models with our benchmark testing dataset - COHI-O365.
 
+<img src="https://github.com/IS2AI/COHI-O365/blob/main/pictures/training_scheme.jpg" width="500">
 
 
 - **YOLOv7-0**: trained on the Objects365 dataset
