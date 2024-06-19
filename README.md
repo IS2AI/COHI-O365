@@ -3,6 +3,8 @@ We present he most diverse in number of images/labels/classes fisheye synthetic 
 
 COHI-O365 is a benchmark testing dataset for object detection in hemispherical/fisheye  for field of view invariant applications. It contains 1,000 real fisheye images of 74 classes sampled from the )bjects 365 dataset with 20.798 object instances per image on average. The images were captured using a hemispherical camera ELP-USB8MP02G-L180 with the 2,448 by 3,264 pixel resolution and manually annotated with standard axis-aligned bounding boxes afterward. The samples of raw images from the COHI-O365 dataset are shown below 
 
+<img src="https://github.com/IS2AI/COHI-O365/blob/main/pictures/COHI-365 Sample Images.png" width="750">
+
 (Link is coming!!!)
 
 The names of sampled classes and the number of bounding boxes for each class are presented in the next figure (to be inserted).
