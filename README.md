@@ -34,8 +34,8 @@ We trained the YOLOv7 model with 36.9 M parameters on three datasets (which???) 
 
 
 - **YOLOv7_original**: trained on the Objects365 dataset
-- **YOLOv7_transformed1**: trained on ...
-- **YOLOv7_transformed2**: trained on ...
+- **YOLOv7_T1**: trained on Objects365 dataset and fisheye images transformed using lens and camera independent fisheye transformation with parameter n = 4
+- **YOLOv7_T2**: trained on RMFV365
 
 
 
