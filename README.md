@@ -1,7 +1,9 @@
 # COHI-O365
 We present he most diverse in number of images/labels/classes fisheye synthetic dataset with source codes and models. As well as a benchmarking testing real dataset.
 
-COHI-O365 is a benchmark testing dataset for object detection in hemispherical/fisheye  for field of view invariant applications. It contains 1,000 real fisheye images of 74 classes sampled from the )bjects 365 dataset with 20.798 object instances per image on average. The images were captured using a hemispherical camera ELP-USB8MP02G-L180 with the 2,448 by 3,264 pixel resolution and manually annotated with standard axis-aligned bounding boxes afterward. The samples of raw and annotated images from the COHI-O365 dataset are shown below (to be inserted).
+COHI-O365 is a benchmark testing dataset for object detection in hemispherical/fisheye  for field of view invariant applications. It contains 1,000 real fisheye images of 74 classes sampled from the )bjects 365 dataset with 20.798 object instances per image on average. The images were captured using a hemispherical camera ELP-USB8MP02G-L180 with the 2,448 by 3,264 pixel resolution and manually annotated with standard axis-aligned bounding boxes afterward. The samples of raw images from the COHI-O365 dataset are shown below 
+
+(Link is coming!!!)
 
 The names of sampled classes and the number of bounding boxes for each class are presented in the next figure (to be inserted).
 
@@ -10,10 +12,10 @@ To train object detection models for the COHI-O365 dataset, the Fisheye versions
 
 ## Download the datasets
 ### The COHI-O365 dataset
-One can access the COHI dataset using the following Google Drive link: (to be inserted)
+One can access the COHI-O365 dataset using the following Google Drive link: [COHI-O365](https://drive.google.com/file/d/18O-_tdxNE7xcd6x9yTrD6-SH8i-HIkfB/view?usp=drive_link)
 
-### The FisheyeCOCO dataset
-The RMFV365 dataset can be downloaded with a link: (insert!!!)
+### The RMFV365 dataset
+The RMFV365 dataset can be downloaded with a link: (Link is coming!!!)
 
 
 ## Requirements
